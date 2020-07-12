@@ -1,7 +1,7 @@
 INSTALL
 -------
 
-    pip install homophones
+    pip3 install homophones
 
 
 EXAMPLE
